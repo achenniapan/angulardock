@@ -27,7 +27,7 @@ module.exports = ""
 /***/ "./src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "CHECK ANGULAR FOR 1 TIME\n\n"
+module.exports = "DOCKER WITH ANGULAR APPLICATION IS RUNNING SUCCESS\n\n"
 
 /***/ }),
 
