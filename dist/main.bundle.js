@@ -27,7 +27,7 @@ module.exports = ""
 /***/ "./src/app/app.component.html":
 /***/ (function(module, exports) {
 
-module.exports = "THIS APP IS RUNNING IN AUTOMATIC BUILD BY DOCKER\n\n"
+module.exports = "CHECK ANGULAR FOR 1 TIME\n\n"
 
 /***/ }),
 
